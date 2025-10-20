@@ -17,9 +17,6 @@ I enjoy combining clean code with minimal design and creating smooth user experi
 
 ---
 
-### 📊 GitHub Stats
-![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibghulami&show_icons=true&theme=dark&hide_border=true)
-
 ### 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibghulami&layout=compact&theme=dark&hide_border=true)
 
